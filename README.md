@@ -1,2 +1,2 @@
 # 100DaysOfPython
-Python focused to Data Science
+### Welcome to 100DaysOfPython focused to Data Science 😉
